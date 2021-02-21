@@ -7,7 +7,7 @@ h1{
     margin: 30px 0 50px;
 }
 .gallery{
-    margin: 10px 50px;
+    margin: auto;
 }
 .gallery img{
     width: 360px;
